@@ -1,0 +1,2 @@
+DETAILS = "NAME: Hope Njeri.\nSHOOL: Agape Hope Schools.\nAGE: 17 Years.\nGENDER: Female.\n"
+print(DETAILS)
