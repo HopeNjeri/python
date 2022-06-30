@@ -1,2 +1,2 @@
-me = "my morning routine. I wake up usuallu around 5 or 6 am, take around ten minutes having breakfast, print something ongithub, check my email, check in on my social media, finish my coffee, go to school"
-print(name)
+about_me = "my morning routine. I wake up usually around 5 or 6 am, take around ten minutes having breakfast, print something on github, check my email, check in on my social media, finish my coffee, go to school"
+print(about_me)
